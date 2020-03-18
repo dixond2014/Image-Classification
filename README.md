@@ -1,3 +1,3 @@
-# Binary Classification Problem using Neural Networks
+# Classification Problem using Neural Networks
 
-For my Master Thesis, I utilized the CIFAR-10 dataset to binary classify the images as cat/not-cat through Regression and Convolutional Neural Networks. I used AlexNet and VGG-16 CNN for this project. 
+I utilized the CIFAR-10 dataset to classify the images with Convolutional Neural Networks using the ReLu and Softmax functions. I am working on the AlexNet and VGG-16 CNN for this same classification problem. 
